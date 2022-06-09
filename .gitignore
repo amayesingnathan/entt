@@ -11,3 +11,19 @@ cpp.hint
 
 # Bazel
 /bazel-*
+
+# Unused for submodule
+.github/
+build/
+cmake/
+conan/
+docs/
+natvis/
+scripts/
+single_include/
+test/
+
+.clang-format
+BUILD.bazel
+CMakeLists.txt
+conanfile.py
